@@ -24,3 +24,19 @@
     color: blue;
 }
 
+button{
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: blue;
+    color: #fff;
+    font-size: 25px;
+}
+
+h1{
+    padding-left: 15px;
+    padding-top: 25px;
+}
